@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=Saurabh%20Shivkriti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=Saurabh%20Shivkriti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Saurabh Shivkriti</h1>
@@ -8,7 +8,7 @@
 <h3 align="center">📊 Data Analyst | SQL • Python • Excel • Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights+📈;Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Dashboard+Developer+%26+Data+Visualizer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=750&lines=Turning+Data+into+Business+Insights+📈;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Dashboard+Developer+%26+Data+Visualizer;Passionate+About+Analytics+%26+Reporting" />
 </p>
 
 <p align="center">
@@ -23,12 +23,19 @@
 
 ## 🚀 About Me
 
-- 📊 Skilled in **Data Cleaning, Data Analysis, Dashboarding & Data Visualization**
-- 🔭 Currently working on **Personal Budget Analysis Dashboard in Excel**
-- 🌱 Learning **Advanced SQL, Power BI & Python for Data Analytics**
-- 💬 Ask me about **SQL, Excel, Power BI, Python & EDA**
-- 📫 Reach me at **saurabhshivkriti@gmail.com**
-- ⚡ Fun fact: **I turn raw data into actionable business insights 📈**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=📊+Skilled+in+Data+Cleaning+%26+Visualization;📈+Building+Interactive+Dashboards;💡+Transforming+Raw+Data+into+Insights;⚡+Passionate+About+Business+Analytics" />
+</p>
+
+<div align="center">
+
+| 💡 Skills | 🚀 Current Work | 🌱 Learning |
+|---|---|---|
+| Data Cleaning | Personal Budget Dashboard | Advanced SQL |
+| Data Visualization | Excel Dashboarding | Power BI |
+| Exploratory Data Analysis | KPI Reporting | Python Analytics |
+
+</div>
 
 ---
 
@@ -36,9 +43,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -46,46 +54,57 @@
 
 ## 📊 Featured Projects
 
-### 🛒 Blinkit Sales Analysis | SQL, Power BI
-- Performed exploratory data analysis to identify revenue trends
-- Built interactive dashboards for business insights
+<div align="center">
 
-### 🍔 Swiggy Sales Analysis | Python
-- Cleaned and analyzed sales data using Pandas & NumPy
-- Visualized trends using Matplotlib & Seaborn
+| 🚀 Project | 🛠️ Tools | 📈 Highlights |
+|---|---|---|
+| 🛒 Blinkit Sales Analysis | SQL, Power BI | Revenue Trends & KPI Dashboard |
+| 🍔 Swiggy Sales Analysis | Python | Data Cleaning & Visualization |
+| 🌫️ AQI Index Dashboard | Power BI | Interactive Filters & KPIs |
+| 🍕 Pizza Sales Dashboard | Excel | Pivot Tables, Charts & Slicers |
 
-### 🌫️ AQI Index Dashboard | Power BI
-- Developed interactive AQI dashboards with filters & KPIs
+</div>
 
-### 🍕 Pizza Sales Dashboard | Excel
-- Built KPI dashboards using Pivot Tables, Charts & Slicers
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datawithsaurabh&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Data Analytics Stack
 
-✔ SQL Queries  
-✔ Dashboard Development  
-✔ Data Cleaning  
-✔ Exploratory Data Analysis  
-✔ Data Visualization  
-✔ Business Insights & Reporting  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboarding-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-00C853?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Insights-FFA000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reporting-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI%20Analysis-8E24AA?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+🤝;Open+to+Collaborations;Connect+with+Me+Below+👇" />
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/saurabh-shivkriti" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/saurabhh_.22" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+<img src="https://skillicons.dev/icons?i=instagram" height="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://saurabbhshivkriti.in/" target="_blank">
-<img src="https://img.icons8.com/fluency/48/domain.png" height="50" />
+<img src="https://img.icons8.com/fluency/48/domain.png" height="55" />
 </a>
 </p>
 
@@ -93,24 +112,28 @@
 
 ## 📄 Resume
 
-<a href="https://saurabbhshivkriti.in/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=View+My+Resume+📄;Data+Analyst+Resume;Explore+My+Experience+👇" />
+</p>
+
+<p align="center">
+<a href="https://github.com/datawithsaurabh/datawithsaurabh/raw/main/Saurabh_Shivkriti_Resume.pdf" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=datawithsaurabh&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=datawithsaurabh&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithsaurabh&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=datawithsaurabh&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithsaurabh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
