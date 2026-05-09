@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=datawithsaurabh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=datawithsaurabh&label=Visitors&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -27,6 +27,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=📊+Skilled+in+Data+Cleaning+%26+Visualization;📈+Building+Interactive+Dashboards;💡+Transforming+Raw+Data+into+Insights;⚡+Passionate+About+Business+Analytics" />
 </p>
 
+<p align="center">
+  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 <div align="center">
 
 | 💡 Skills | 🚀 Current Work | 🌱 Learning |
@@ -36,6 +40,10 @@
 | Exploratory Data Analysis | KPI Reporting | Python Analytics |
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6A5ACD&height=2&section=header"/>
+</p>
 
 ---
 
@@ -48,6 +56,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datawithsaurabh&theme=tokyonight" />
 </p>
 
 ---
@@ -84,6 +96,10 @@
   <img src="https://img.shields.io/badge/Business%20Insights-FFA000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Reporting-1E88E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/KPI%20Analysis-8E24AA?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datawithsaurabh&theme=tokyonight"/>
 </p>
 
 ---
@@ -140,6 +156,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## ✨ Daily Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
