@@ -75,13 +75,17 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-shivkriti" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+<p align="center">
+<a href="https://linkedin.com/in/saurabh-shivkriti" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
-<a href="https://instagram.com/saurabhh_.22" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+&nbsp;&nbsp;
+<a href="https://instagram.com/saurabhh_.22" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://saurabbhshivkriti.in/" target="_blank">
+<img src="https://img.icons8.com/fluency/48/domain.png" height="50" />
 </a>
 </p>
 
